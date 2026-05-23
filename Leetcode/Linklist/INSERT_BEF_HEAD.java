@@ -22,7 +22,7 @@ class ListNode {
         prev = prev1;
     }
 }
- */
+ 
 
 class Solution {
     public ListNode insertBeforeHead(ListNode head, int X) {
